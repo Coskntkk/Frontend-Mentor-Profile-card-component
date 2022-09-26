@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Html solution]()
-- [Css solution]()
+- [Html solution](https://github.com/Coskntkk/Frontend-Mentor-Profile-card-component/blob/main/index.html)
+- [Css solution](https://github.com/Coskntkk/Frontend-Mentor-Profile-card-component/blob/main/style.css)
 - [Live site]()
 
 ## My process
